@@ -1,2 +1,2 @@
-# Learning-Chia
-Backdrop Build v2 Nov 9 - Dec 3
+- [Sign Up](https://chialearning.com/)
+- [Demo Video](https://youtu.be/3oS9PBbhsYs)
